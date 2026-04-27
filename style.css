@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f3f0e8;
+}
+
+h1 {
+  text-align: center;
+  padding: 14px;
+  background: #4f6f3a;
+  color: #fff8ee;
+  margin: 0;
+  font-size: 20px;
+}
+
+.container {
+  padding: 12px;
+  max-width: 750px;
+  margin: auto;
+}
+
+.card {
+  background: #fffdf7;
+  margin-bottom: 12px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.num {
+  font-weight: normal;
+  margin-bottom: 6px;
+  font-size: 14px;
+  color: #2b2b2b;
+}
+
+img {
+  width: 65%;
+  display: block;
+  margin: auto;
+  border-radius: 4px;
+}
